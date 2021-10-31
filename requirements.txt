@@ -1,8 +1,8 @@
-discord.py = 1.7.3
+discord.py == 1.7.3
 requests
 urllib
-python-decouple
-ffmpeg = 1.4
-ffprobe = 0.5
-PyNaCl = 1.4.0
-yt-dlp = 2021.10.10
+python-decouple == 3.5
+ffmpeg == 1.4
+ffprobe == 0.5
+PyNaCl == 1.4.0
+yt-dlp == 2021.10.10
