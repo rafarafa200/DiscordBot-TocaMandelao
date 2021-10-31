@@ -1,6 +1,6 @@
 discord.py == 1.7.3
 requests
-urllib
+urllib3
 python-decouple == 3.5
 ffmpeg == 1.4
 ffprobe == 0.5
